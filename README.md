@@ -1,10 +1,10 @@
-## Hi there, I'm Dat 👋
+# <p align="center"> Hi there, I'm Dat 👋 </p>
 
 <!--
 **datvuny/datvuny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a Full Stack Developer from NY, NY  <img src="https://media.giphy.com/media/l0HlEWclCsn2XgJna/giphy.gif" width="30">
+## <p align="center"> I am a Full Stack Developer from NY, NY  <img src="https://media.giphy.com/media/l0HlEWclCsn2XgJna/giphy.gif" width="30"> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
