@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Bn0JzrZxWfTKU/giphy.gif" width="100"/>
-</div>
-# 👋 Hi there, I'm Dat Vu
+## Hi there, I'm Dat 👋
 
 <!--
 **datvuny/datvuny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
