@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - 🔭 My portfolio is available at <a href='https://www.datvu.nyc/'>datvu.nyc<a>
 - 🌱 Fullstack Academy graduate (2206 cohort/Sept 2022)
-- 📋 Full <a href='https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:d4f1f845-9f1d-4d41-b8cf-0f772f218dd9'>résumé<a>
+- 📋 Full <a href='https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:402f10dd-cd2e-4d77-9902-45f563e9edd3'>résumé<a>
 - 💬 Talk to me about PERN stack or cooking
 - 📫 Email me <a href = "mailto: datqvu295@gmail.com">here</a>
 - ⚡ Fun fact: I use to cook things at a NYC Michelin star restaurant
