@@ -4,7 +4,7 @@
 **datvuny/datvuny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## <p align="center"> I am a Full Stack Developer from NY, NY  <img src="https://media.giphy.com/media/l0HlEWclCsn2XgJna/giphy.gif" width="30"> </p>
+## <p align="center"> I'm in NY, NY  <img src="https://media.giphy.com/media/l0HlEWclCsn2XgJna/giphy.gif" width="30"> </p>
 
 - 😄 Pronouns: He/Him
 - 🔭 My portfolio is available at <a href='https://www.datvu.nyc/'>datvu.nyc<a>
