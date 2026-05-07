@@ -40,16 +40,6 @@
   
   ---
 ### :fire: My Stats :
-  <picture>
-<source 
-  srcset="https://github-readme-stats-datvuny.vercel.app/api?username=datvuny&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=datvuny&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=datvuny&show_icons=true" />
-</picture>
+ 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=datvuny&theme=holi-theme&border_radius=3.5)](https://git.io/streak-stats)
